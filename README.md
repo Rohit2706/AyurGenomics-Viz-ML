@@ -68,7 +68,10 @@ play a vital role in regulation within cellular. Overview of phenomics and genom
 
 ## What we did?
 You may follow the link below for a detaiiled overview of the project.
-[Report]()
+
+[Report](https://github.com/Rohit2706/AyurGenomics-Viz-ML/blob/master/Report/Ayurgenomics.pdf)
+
+
 ## References
 - 2017, PLoS One, [Recapitulation of Ayurveda constitution types by machine learning of phenotypic traits](https://doi.org/10.1371/journal.pone.0185380)
 - 2011, ACS Chemical Biology, [Ayurgenomics: A New Way of Threading Molecular Variability for Stratified Medicine](https://doi.org/10.1021/cb2003016)
